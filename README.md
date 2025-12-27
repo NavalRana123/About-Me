@@ -1,5 +1,19 @@
-# Welcome to GitHub Desktop!
+Hi, I’m Naval Rana(NavalRana123).
+a passionate Data Analyst who enjoys transforming raw data into clear, actionable insights. I work with Python, SQL, Excel, and Power BI to perform data cleaning, exploratory data analysis, and visualization that support data-driven decision-making. I’m continuously learning new tools and techniques, building real-world projects, and striving to turn complex datasets into meaningful business stories.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+What I Do 📊
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+🔍 Analyze data to uncover insights and trends
+🧹 Clean, transform, and prepare data
+📈 Support data-driven decision making
+
+🛠 Skills and Tools ⚙️
+🐍 Python | 🗄️ SQL
+📊 Pandas, NumPy, EDA
+📉 Power BI, Excel, Matplotlib
+
+📂 Projects 🚀
+
+📊 Exploratory Data Analysis (EDA) projects
+📈 Interactive dashboards using Power BI
+🧠 SQL-based data analysis projects
