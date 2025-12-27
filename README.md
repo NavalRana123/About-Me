@@ -10,6 +10,7 @@ What I Do 📊
 
 📈 Support data-driven decision making
 
+
 🛠 Skills and Tools ⚙️
 
 🐍 Python | 🗄️ SQL
@@ -17,6 +18,7 @@ What I Do 📊
 📊 Pandas, NumPy, EDA
 
 📉 Power BI, Excel, Matplotlib
+
 
 📂 Projects 🚀
 
