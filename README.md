@@ -30,4 +30,5 @@ What I Do 📊
 
 Contact
 🔗 GitHub: https://github.com/NavalRana123
-🔗 linkedin: [aamit-kumar-sharma](https://www.linkedin.com/in/naval-rana-499b53374/)
+
+🔗 linkedin: https://www.linkedin.com/in/naval-rana-499b53374/
