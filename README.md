@@ -1,5 +1,6 @@
 Hi, I’m Naval Rana(NavalRana123).
-a passionate Data Analyst who enjoys transforming raw data into clear, actionable insights. I work with Python, SQL, Excel, and Power BI to perform data cleaning, exploratory data analysis, and visualization that support data-driven decision-making. I’m continuously learning new tools and techniques, building real-world projects, and striving to turn complex datasets into meaningful business stories.
+
+A passionate Data Analyst who enjoys transforming raw data into clear, actionable insights. I work with Python, SQL, Excel, and Power BI to perform data cleaning, exploratory data analysis, and visualization that support data-driven decision-making. I’m continuously learning new tools and techniques, building real-world projects, and striving to turn complex datasets into meaningful business stories.
 
 What I Do 📊
 
