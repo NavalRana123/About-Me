@@ -27,3 +27,7 @@ What I Do 📊
 📈 Interactive dashboards using Power BI
 
 🧠 SQL-based data analysis projects
+
+Contact
+🔗 GitHub: https://github.com/NavalRana123
+🔗 linkedin: [aamit-kumar-sharma](https://www.linkedin.com/in/naval-rana-499b53374/)
