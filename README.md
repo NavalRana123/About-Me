@@ -5,17 +5,23 @@ A passionate Data Analyst who enjoys transforming raw data into clear, actionabl
 What I Do 📊
 
 🔍 Analyze data to uncover insights and trends
+
 🧹 Clean, transform, and prepare data
+
 📈 Support data-driven decision making
 
 🛠 Skills and Tools ⚙️
 
 🐍 Python | 🗄️ SQL
+
 📊 Pandas, NumPy, EDA
+
 📉 Power BI, Excel, Matplotlib
 
 📂 Projects 🚀
 
 📊 Exploratory Data Analysis (EDA) projects
+
 📈 Interactive dashboards using Power BI
+
 🧠 SQL-based data analysis projects
